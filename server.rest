@@ -1,0 +1,17 @@
+CHECk GET 
+
+
+
+###check get
+
+GET http://localhost:3200/
+Content-Type: 'json'
+
+{
+    "serie":"1"
+}
+
+
+##check
+
+GET http://localhost:3300/
